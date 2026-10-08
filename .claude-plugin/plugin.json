@@ -1,0 +1,20 @@
+{
+  "name": "usage-meter",
+  "version": "0.1.0",
+  "description": "Shows plan rate-limit usage, session cost, context fill and a per-task token estimate above the prompt",
+  "author": {
+    "name": "Rain Guo"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts",
+  "repository": "https://github.com/ewxgwy1987/claude-code-usage-meter",
+  "homepage": "https://github.com/ewxgwy1987/claude-code-usage-meter#readme",
+  "keywords": [
+    "claude-code",
+    "mod",
+    "usage",
+    "rate-limits",
+    "context",
+    "cost"
+  ]
+}

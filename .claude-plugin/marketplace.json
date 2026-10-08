@@ -1,0 +1,30 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claude-code-usage-meter",
+  "description": "Shows plan rate-limit usage, session cost, context fill and a per-task token estimate above the prompt",
+  "owner": {
+    "name": "Rain Guo"
+  },
+  "plugins": [
+    {
+      "name": "usage-meter",
+      "source": "./",
+      "description": "Shows plan rate-limit usage, session cost, context fill and a per-task token estimate above the prompt",
+      "version": "0.1.0",
+      "author": {
+        "name": "Rain Guo"
+      },
+      "license": "MIT",
+      "keywords": [
+        "claude-code",
+        "mod",
+        "usage",
+        "rate-limits",
+        "context",
+        "cost"
+      ],
+      "repository": "https://github.com/ewxgwy1987/claude-code-usage-meter",
+      "homepage": "https://github.com/ewxgwy1987/claude-code-usage-meter#readme"
+    }
+  ]
+}
