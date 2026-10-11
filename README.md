@@ -30,6 +30,8 @@ Session $0.120
 
 - A Claude Code build that supports function-hook plugins (mods). Version 2.1.289 or
   later was used to build and test it.
+- Windows, macOS or Linux. The mod reads only what Claude Code hands it (usage figures,
+  its own store), so it needs no shell, file access or extra software on any system.
 - A Claude subscription plan, if you want the rate-limit bars. With API-key billing,
   Claude Code receives no plan limits, so the mod shows only context, cost and task figures.
 
